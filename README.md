@@ -20,7 +20,7 @@ A robust, backend-driven To-Do web application built with Python and Django. Thi
 ## 🛠️ Tech Stack
 
 *   **Backend:** Python, Django 3.2+
-*   **Database:** SQLite (Django Default) 
+*   **Database:** SQLite 
 *   **Frontend:** HTML, CSS, Django Templates
 
 ---
