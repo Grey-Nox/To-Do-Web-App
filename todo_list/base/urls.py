@@ -3,6 +3,9 @@ from django.urls import path, include
 from base.views import Home, Login, SignUp, add_todo, delete_todo, Signout
 
 
+#reading thid old project after a long time....
+
+
 urlpatterns = [
     path('', Home, name='Home'),
     path('Login/', Login, name='Login'),
